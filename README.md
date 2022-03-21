@@ -9,7 +9,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ## About:
-Welcome to Horiseon where we
+Welcome to Horiseon where we can assist you on how to make you make your business flow better with assistance on social media marketing, guidance on what ORM would be best to use or even search engine optimization.
 
 ## Screenshot of application:
 
