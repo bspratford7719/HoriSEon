@@ -3,8 +3,7 @@
 
 # Horiseon Week 1 project
 
-https://bspratford7719.github.io/HoriSEon/
-
+https://bspratford7719.github.io/Horiseon.22/
 
 ## User story:
 AS A marketing agency
