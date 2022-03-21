@@ -1,4 +1,4 @@
-![badmath](https://img.shields.io/badge/-HTML-orange) ![badmath](https://img.shields.io/badge/-CSS-blue) ![badmath](https://img.shields.io/badge/-JS-yellow)
+![badmath](https://img.shields.io/badge/-HTML-orange) ![badmath](https://img.shields.io/badge/-CSS-blue) 
 
 
 # Horiseon Week 1 project
