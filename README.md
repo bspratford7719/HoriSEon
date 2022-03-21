@@ -15,5 +15,6 @@ SO THAT our own site is optimized for search engines
 Welcome to Horiseon where we can assist you on how to make you make your business flow better with assistance on social media marketing, guidance on what ORM would be best to use or even search engine optimization.
 
 ## Screenshot of application:
+![image](https://user-images.githubusercontent.com/92769029/159202898-bcee97af-39ab-4c1e-84be-854c0a560fed.png)
 
 
